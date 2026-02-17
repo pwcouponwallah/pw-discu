@@ -1,0 +1,12 @@
+{
+  "name": "pw-discount-portal-2026",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "^6.22.3",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.344.0",
+    "framer-motion": "11.0.8"
+  }
+}
